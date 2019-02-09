@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Github User</string>
+    <string name="search_hint">Search Github User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
